@@ -344,8 +344,7 @@ https://github.com/tribeorgtw/auto-gas-deployment-tutorial
 ### 📱 關注 TRIBE 協會
 
 [![官方網站](https://img.shields.io/badge/官方網站-tribe.org.tw-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tribe.org.tw)
-[![GitHub](https://img.shields.io/badge/GitHub-tribeorgtw-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tribeorgtw)
-
+[![LINE](https://img.shields.io/badge/LINE-點我加入-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/g2/eMcZ0ul4WryS0Xo71KuP3cTyZh_TZf_8labSPA)
 ---
 
 **Made with ❤️ by Taiwan Robotic & Intelligent Business Ecosystem**
